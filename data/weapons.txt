@@ -1,0 +1,4 @@
+The Foe Hammer,sword,true
+The Goblin Cleaver, sword, true
+Rusty Sword, sword, false
+Wooden Mallet, club, false
